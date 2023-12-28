@@ -1,4 +1,6 @@
 ## Stats
+![](https://raw.githubusercontent.com/1shikawa/1shikawa/output/github-contribution-grid-snake.svg)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1shikawa&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1shikawa&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1shikawa&theme=gruvbox)
